@@ -1,6 +1,6 @@
 # OceanViewer
 
-###Guía de carpetas
+### Guía de carpetas
 
 - Code: Contiene todo el código de la aplicación final.
 - Installer: Contiene el instalador de la aplicación final.
